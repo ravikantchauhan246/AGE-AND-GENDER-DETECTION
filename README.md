@@ -20,7 +20,7 @@ This project implements a real-time age and gender detection system using deep l
 - Scikit-learn
 
 ## Project Structure
-
+```
 ├── age_deploy.prototxt
 ├── age_net.caffemodel
 ├── gender_deploy.prototxt
@@ -29,6 +29,7 @@ This project implements a real-time age and gender detection system using deep l
 ├── opencv_face_detector_uint8.pb
 ├── GenderAndAge.ipynb
 └── README.md
+```
 
 ## Installation
 1. Clone this repository
