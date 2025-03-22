@@ -85,11 +85,5 @@ This project is open source and available under the [MIT License](LICENSE).
 - Caffe model creators
 - Deep learning research community
 
-## Author
-[Your Name]
-
-## Contact
-- Email: chauhan@ravikant.dev
-- GitHub: https://github.com/ravikantchauhan246
 
 
